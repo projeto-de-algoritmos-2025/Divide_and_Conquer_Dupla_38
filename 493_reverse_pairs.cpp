@@ -41,6 +41,19 @@ private:
         return count;
     }
 
+    int mergeSort(vector<int>& nums, int l, int r) {
+        if(l >= r) return 0;
+
+        int m = l + (r - l) / 2;
+        int reverse_pairs = 0;
+
+        reverse_pairs += mergeSort(nums, l, m);
+        reverse_pairs += mergeSort(nums, m + 1, r);
+        reverse_pairs += merge(nums, l, m, r);
+
+        return reverse_pairs;
+    }
+
 public:
     int reversePairs(vector<int>& nums) {
         if(nums.empty()) return 0;
