@@ -15,13 +15,13 @@ public:
                 j++;
             }
         }
-        int half = total + 1 / 2;
+        int half = total / 2;
         double median;
         if (total % 2 == 1) {
             median = final[half];
         } 
         else {
-            median = final[half] + final[half + 1];
+            median = (final[half] + final[half - 1]) / 2.0;
         }
         return median;
     }
