@@ -5,5 +5,24 @@ public:
         vector<int> final;
         int total = m + n;
         int i = 0, j = 0;
+        for (int k = 0; k < total; ++k) {
+            if (nums1[i] <= nums2[j]) {
+                final.push_back(nums1[i]);
+                i++;
+            } 
+            else if (j < n){
+                final.push_back(nums2[j]);
+                j++;
+            }
+        }
+        int half = total + 1 / 2;
+        double median;
+        if (total % 2 == 1) {
+            median = final[half];
+        } 
+        else {
+            median = final[half] + final[half + 1];
+        }
+        return median;
     }
 };
