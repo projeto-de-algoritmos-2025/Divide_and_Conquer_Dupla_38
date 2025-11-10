@@ -20,6 +20,14 @@ Resolução de exercícios no leetcode
 
 ## Screenshots
 
+### [493. Reverse Pairs (Difícil)](https://leetcode.com/problems/reverse-pairs/submissions/1824522902/?envType=problem-list-v2&envId=divide-and-conquer)
+
+![493_reverse_pairs](./assets/493_reverse_pairs.png)
+
+### [912. Sort an Array (Médio)](https://leetcode.com/problems/sort-an-array/submissions/1824524863/?envType=problem-list-v2&envId=divide-and-conquer)
+
+![912_sort_an_array](./assets/912_sort_an_array.png)
+
 ## Vídeo Explicativo
 
 ## Instalação
