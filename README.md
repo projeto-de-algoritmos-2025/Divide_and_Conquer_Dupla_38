@@ -2,7 +2,7 @@ Temas:
 
 - Dividir e Conquistar
 
-# MaxProd
+# Dividir e Conquistar
 
 **Número da Lista**: 4<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
@@ -28,8 +28,22 @@ Resolução de exercícios no leetcode
 
 ![912_sort_an_array](./assets/912_sort_an_array.png)
 
+### [4.Median_of_Two_Sorted_Srrays (Difícil)](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+![4](./assets/Median_of_Two_Sorted_Arrays.png)
+
+### [315.Count_of_Smaller_Numbers_After_Self (Difícil)](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
+
+![4](./assets/Count_of_Smaller_Numbers_After_Self.png)
+
+
 ## Vídeo Explicativo
 
 ## Instalação
 
-**Linguagem**:
+**Linguagem**: C/C++<br>
+**Compilador**: GCC<br>
+
+## Uso
+
+É possível executar o programa no site do Leetcode, acessando o link do exercício desejado, clicando em "Code", colando o código na área indicada e depois clicando em "Submit".
