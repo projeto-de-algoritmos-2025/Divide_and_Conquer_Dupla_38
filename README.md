@@ -39,6 +39,8 @@ Resolução de exercícios no leetcode
 
 ## Vídeo Explicativo
 
+[Link_vídeo_explicativo](https://youtu.be/6ZgSK8GLG0s)
+
 ## Instalação
 
 **Linguagem**: C/C++<br>
