@@ -39,7 +39,7 @@ Resolução de exercícios no leetcode
 
 ## Vídeo Explicativo
 
-[Link_vídeo_explicativo](https://youtu.be/6ZgSK8GLG0s)
+[Link_vídeo_explicativo](https://youtu.be/6ZgSK8GLG0s) <br>
 [Link_vídeo_explicativo2](https://youtu.be/jZi6T2iYHfk?si=0qdVOCjpWpgkGFJv)
 
 ## Instalação
